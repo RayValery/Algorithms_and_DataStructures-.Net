@@ -36,7 +36,7 @@ namespace Practica
         {
             this.name = name;
         }
-
+ 
         public int getCourse()
         {
             return course;
